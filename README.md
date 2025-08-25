@@ -37,7 +37,7 @@
 <img align="right" width="88" src="figure/nika.jfif" />
 
 <p>&emsp;&emsp;嗨，我是KAP 。热爱物理、编程、健身、骑行。</p>
-<p>&emsp;&emsp;想要顺利PhD毕业，实现不被异化的自我劳动价值，自由也许无法抵达，但不妨碍我们不断靠近。</p>
+<p>&emsp;&emsp;想要顺利PhD毕业，实现不被异化的自我劳动价值，自由也许无法抵达，但不妨碍我不断靠近。</p>
 <!-- <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/KAP424/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p> -->
 <p>&emsp;&emsp;-- 我们正在让这个世界变得更加美好，尼卡将会带来快乐消逝痛苦。</p>
 <p>&emsp;&emsp;<strong>-- We're making the world a better place. Nika will bring happiness and alleviate pain.</strong></p>

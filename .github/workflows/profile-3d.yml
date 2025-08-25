@@ -10,15 +10,32 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # 升级到最新版
+
+      # 生成3D贡献图
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      # 智能判断是否有文件变更
+      - name: Check for changes
+        id: changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          if git diff --quiet HEAD^ HEAD; then
+            echo "No changes detected"
+            echo "::set-output name=has_changes::false"
+          else
+            echo "Changes detected"
+            echo "::set-output name=has_changes::true"
+          fi
+
+      # 仅在有变更时提交
+      - name: Commit & Push
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --global user.name "${{ github.actor }}"  # 使用GitHub内置变量
+          git config --global user.email "${{ secrets.EMAIL }}"  # 建议配置专用邮箱
           git add -A .
-          git commit -m "generated"
+          git commit -m "Update 3D contribution graph"
           git push
