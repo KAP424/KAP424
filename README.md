@@ -36,8 +36,8 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</p>
-<p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
+<p>&emsp;&emsp;嗨，我是KAP 。热爱物理、编程、健身、骑行。</p>
+<p>&emsp;&emsp;想要顺利PhD毕业，实现不被异化的自我劳动价值，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
 <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/Peter-JXL/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -52,13 +52,13 @@
 
 ## 🏢 Education Experience
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
+<img align="right" width="200" src="figure/logo1.png" />
 
 - [兰州大学](https://www.lzu.edu.cn/) &emsp; 📌 2020-07 —— 2024-07
 
   - 学习经历：于萃英学院理论物理专业获取本科学位
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+<img align="right" width="200" src="figure/logo2.png" />
 
 - [中国科学院物理研究所](https://theory.iphy.ac.cn/team06.html)   📌 2024-09 —— right now
 
@@ -71,12 +71,13 @@
   
 </td></tr>
 
+## 📕Papers
 
+asdas
 
 </table>
 
 ## 📊 GitHub 数据统计
-
 
 
 <!-- metrics 基础资料 -->
