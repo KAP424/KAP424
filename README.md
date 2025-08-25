@@ -3,7 +3,7 @@
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: light)" srcset="figure/face.jpg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
@@ -13,7 +13,7 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://www.kap.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
@@ -34,13 +34,13 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="88" src="figure/nika.jfif" />
 
 <p>&emsp;&emsp;嗨，我是KAP 。热爱物理、编程、健身、骑行。</p>
-<p>&emsp;&emsp;想要顺利PhD毕业，实现不被异化的自我劳动价值，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
-<p>&emsp;&emsp; 个人公众号：<a href="https://github.com/Peter-JXL/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;想要顺利PhD毕业，实现不被异化的自我劳动价值，自由也许无法抵达，但不妨碍我们不断靠近。</p>
+<!-- <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/Peter-JXL/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p> -->
+<p>&emsp;&emsp;-- 我们正在让这个世界变得更加美好，尼卡将会带来快乐消逝痛苦。</p>
+<p>&emsp;&emsp;<strong>-- We're making the world a better place. Nika will bring happiness and alleviate pain.</strong></p>
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -71,11 +71,18 @@
   
 </td></tr>
 
+
+<tr><td>
+
 ## 📕Papers
 
-asdas
+None
+
+
+</td></tr>
 
 </table>
+
 
 ## 📊 GitHub 数据统计
 
