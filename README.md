@@ -36,7 +36,7 @@
 
 <img align="right" width="88" src="figure/nika.jfif" />
 
-<p>&emsp;&emsp;嗨，我是KAP 。热爱物理、编程、健身、骑行。</p>
+<p>&emsp;&emsp;嗨，我是申昌裕。热爱物理、编程、健身、骑行。</p>
 <p>&emsp;&emsp;想要顺利PhD毕业，实现不被异化的自我劳动价值，自由也许无法抵达，但不妨碍我不断靠近。</p>
 <!-- <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/KAP424/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p> -->
 <p>&emsp;&emsp;-- 我们正在让这个世界变得更加美好，尼卡将会带来快乐消逝痛苦。</p>
@@ -64,6 +64,7 @@
 
   - 所读部门：凝聚态强关联理论（T06）
   - 工作内容：参与量子蒙特卡洛算法开发
+  - 导师：[李自翔](https://iop.cas.cn/rcjy/tpyjy/?id=4443)
 
 
   <!-- for beauty 留个空行好看点 -->
