@@ -14,14 +14,14 @@
 <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://www.kap.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=KAP424&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAP424/KAP424/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAP424/KAP424/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KAP424/KAP424/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 
 <p>&emsp;&emsp;嗨，我是KAP 。热爱物理、编程、健身、骑行。</p>
 <p>&emsp;&emsp;想要顺利PhD毕业，实现不被异化的自我劳动价值，自由也许无法抵达，但不妨碍我们不断靠近。</p>
-<!-- <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/Peter-JXL/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p> -->
+<!-- <p>&emsp;&emsp; 个人公众号：<a href="https://github.com/KAP424/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p> -->
 <p>&emsp;&emsp;-- 我们正在让这个世界变得更加美好，尼卡将会带来快乐消逝痛苦。</p>
 <p>&emsp;&emsp;<strong>-- We're making the world a better place. Nika will bring happiness and alleviate pain.</strong></p>
 
@@ -92,15 +92,15 @@ None
 
 <!-- GitHub 数据统计 -->
 
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Peter-JXL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KAP424&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Peter-JXL&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KAP424&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Peter-JXL&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Peter-JXL&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=KAP424&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=KAP424&theme=dark&hide_border=true" />
 </picture>
 
 
@@ -110,9 +110,9 @@ None
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=KAP424&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KAP424&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAP424&theme=tokyo-night" />
       </picture>
   </tr>
 </table>
