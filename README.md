@@ -50,21 +50,20 @@
 
 <tr><td>
 
-## 🏢 Work Experience
+## 🏢 Education Experience
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
 
-- [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
+- [兰州大学](https://www.lzu.edu.cn/) &emsp; 📌 2020-07 —— 2024-07
 
-  - 工作岗位：系统开发岗
-  - 工作内容：参与网银开发与维护工作
+  - 学习经历：于萃英学院理论物理专业获取本科学位
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
 
-- [浪潮](https://www.inspur.com/)   📌 2019-07 —— 2020-02
+- [中国科学院物理研究所](https://theory.iphy.ac.cn/team06.html)   📌 2024-09 —— right now
 
-  - 工作岗位：实习生
-  - 工作内容：参与软件开发
+  - 所读部门：凝聚态强关联理论（T06）
+  - 工作内容：参与量子蒙特卡洛算法开发
 
 
   <!-- for beauty 留个空行好看点 -->
