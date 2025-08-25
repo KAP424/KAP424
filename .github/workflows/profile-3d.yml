@@ -1,51 +1,23 @@
-name: 3D Contrib
-
+name: GitHub-Profile-3D-Contrib
+ 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-
-      # 清理工作区
-      - name: Clean workspace
-        run: |
-          rm -rf .github/3d-contrib.svg
-          git clean -xdf
-
-      # 生成3D贡献图
+      - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          output_path: .github/
-          config_path: .github/3d-config.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      # 调试文件状态
-      - name: Verify file
-        run: |
-          echo "Checking 3d-contrib.svg..."
-          if [ -f .github/3d-contrib.svg ]; then
-            echo "File generated successfully"
-          else
-            echo "File generation failed!"
-            exit 1
-          fi
-
-      # 智能提交
+          USERNAME: KAP424
       - name: Commit & Push
-        if: github.event_name != 'pull_request'
         run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ secrets.EMAIL }}"
-          git add .github/3d-contrib.svg
-          git diff --quiet && git diff --staged --quiet || {
-            git commit -m "Update 3D contribution graph"
-            git push
-          }
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git diff --staged --exit-code || (git commit -m "generated" && git push)
