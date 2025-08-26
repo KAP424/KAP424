@@ -12,10 +12,10 @@
 
 
 <!-- profile logo 个人资料徽标 -->
-  <div>
+  <!-- <div>
     <a href="https://www.kap.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=KAP424&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
+  </div> -->
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -85,7 +85,7 @@
 </table>
 
 
-## 📊 GitHub 数据统计
+<!-- ## 📊 GitHub 数据统计 -->
 
 
 <!-- metrics 基础资料 -->
@@ -126,4 +126,4 @@
   <img src="/profile-night-rainbow.svg" />
 </picture>
 
- --> -->
+
