@@ -99,7 +99,7 @@
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=KAP424&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=KAP424&theme=dark&hide_border=true" />
 </picture>
@@ -107,7 +107,7 @@
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <picture>
@@ -116,14 +116,14 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAP424&theme=tokyo-night" />
       </picture>
   </tr>
-</table>
+</table> -->
 
 
 <!-- profile-3d-contrib 3D 贡献图-->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
   <img src="/profile-night-rainbow.svg" />
 </picture>
 
-
+ --> -->
