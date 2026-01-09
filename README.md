@@ -29,7 +29,7 @@
 #  🙋 Hello
 
 <table>
-  
+
 <tr><td>
 
 ### 🤺 About Me
@@ -69,7 +69,7 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
+
 </td></tr>
 
 
@@ -78,7 +78,7 @@
 ## 📕Papers
 
 > [关于增量算法的粗浅理解](https://zhuanlan.zhihu.com/p/1900545191137490676)
-
+> [Universal Entanglement Growth along Imaginary Time in Quantum Critical Systems](https://arxiv.org/pdf/2512.23361)
 
 </td></tr>
 
@@ -125,5 +125,4 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
   <img src="/profile-night-rainbow.svg" />
 </picture>
-
 
