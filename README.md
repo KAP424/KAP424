@@ -78,6 +78,7 @@
 ## 📕Papers
 
 > [关于增量算法的粗浅理解](https://zhuanlan.zhihu.com/p/1900545191137490676)
+>
 > [Universal Entanglement Growth along Imaginary Time in Quantum Critical Systems](https://arxiv.org/pdf/2512.23361)
 
 </td></tr>
