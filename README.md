@@ -28,7 +28,7 @@
 
 #  🙋 Hello
 
-<table style="width:100%">
+<table style="width:880px;max-width:100%">
 
 <tr><td>
 
